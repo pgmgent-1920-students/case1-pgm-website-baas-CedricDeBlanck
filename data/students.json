@@ -81,46 +81,6 @@
       "createdTime": "2020-05-04T18:58:51.000Z"
     },
     {
-      "id": "recEkYqT78hdJTP1X",
-      "fields": {
-        "favourite": "WEBPGM",
-        "interests": "tetten, zalmtoastjes, orvallekes",
-        "veggies": "prei",
-        "name_last": "Jackson",
-        "img": [
-          {
-            "id": "attEoRPcWHhefj3uD",
-            "url": "https://dl.airtable.com/.attachments/11538898923bb08c789872cc39bad11a/56eb383c/tenor.gif",
-            "filename": "tenor.gif",
-            "size": 2689841,
-            "type": "image/gif",
-            "thumbnails": {
-              "small": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/7bb700d34257ad111f366dcc4950fcb9/56da7fef",
-                "width": 45,
-                "height": 36
-              },
-              "large": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/7c69cf65f10a2ca13d84b1a84f434a31/4fb07f4c",
-                "width": 314,
-                "height": 252
-              },
-              "full": {
-                "url": "https://dl.airtable.com/.attachmentThumbnails/4886d04970b75e14236b084e0b2c2369/96cd9643",
-                "width": 3000,
-                "height": 3000
-              }
-            }
-          }
-        ],
-        "generation": "2019 - 2021",
-        "quote_alt": "No matter if it's black or white als 't maar te zuipen is",
-        "quote": "No matter if it's black or white als 't maar te zuipen is",
-        "name_first": "Michael"
-      },
-      "createdTime": "2020-04-23T11:29:47.000Z"
-    },
-    {
       "id": "recFlvTFXYA4ySC9p",
       "fields": {
         "favourite": "WEBPGM",
