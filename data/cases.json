@@ -1,15 +1,15 @@
 [{
-    "image" : "../assets/arnequinze.jpg",
+    "image" : "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/assets/arnequinze.jpg?token=ANGVHBTCZLDVWK57ZWV266263IY7C",
     "title" : "Arne Quinze",
     "text": ""
 },
 {
-    "image" : "../assets/matthias.svg",
+    "image" : "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/cdaf0dd2d947e7ec1156ff8d933e0d29d04da34f/assets/matthias.svg?token=ANGVHBTBW34TYBNN4SFUWKC62D356",
     "title" : "Mathias Talloen",
     "text": ""
 },
 {
-    "image" : "../assets/establis.svg",
+    "image" : "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/cdaf0dd2d947e7ec1156ff8d933e0d29d04da34f/assets/establis.svg?token=ANGVHBQNQP67WOXE22OEBIS62D4AQ",
     "title" : "Establis",
     "text": ""
 }
