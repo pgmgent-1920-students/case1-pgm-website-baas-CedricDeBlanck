@@ -1,14 +1,17 @@
 [{
+    "id": "1",
     "image" : "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/docs/static/cases/images/arnequinze.jpg",
     "title" : "Arne Quinze",
     "text": ""
 },
 {
+    "id": "2",
     "image" : "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/docs/static/cases/images/matthias.svg",
     "title" : "Mathias Talloen",
     "text": ""
 },
 {
+    "id": "3",
     "image" : "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/docs/static/cases/images/establis.svg",
     "title" : "Establis",
     "text": ""
