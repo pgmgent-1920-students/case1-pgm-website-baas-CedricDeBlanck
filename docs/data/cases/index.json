@@ -1,19 +1,404 @@
-[{
-    "id": "1",
-    "image" : "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/docs/static/cases/images/arnequinze.jpg",
-    "title" : "Arne Quinze",
-    "text": ""
-},
-{
-    "id": "2",
-    "image" : "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/docs/static/cases/images/matthias.svg",
-    "title" : "Mathias Talloen",
-    "text": ""
-},
-{
-    "id": "3",
-    "image" : "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/docs/static/cases/images/establis.svg",
-    "title" : "Establis",
-    "text": ""
-}
+[
+    {
+        "id": "7712f4542ce54d98878ee5b93c7d1228",
+        "title": "Super Villain Wanted",
+        "description": "<p>Het gaat goed met de organisatie ' The Bad Magnetos', daarom zijn ze op zoek naar nieuwe 'super evil influence'.</p><p>Schrijf een digitale HTML-vacature uit voor een een nieuwe werkkracht.</p>",
+        "images": [
+            {
+                "thumbnail": true,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/super-villain-wanted_thumbnail.jpg",
+                "alt": "Screenshot van het resultaat"
+            },
+            {
+                "thumbnail": false,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/super-villain-wanted_apply-page.jpg",
+                "alt": "Screenshot van de soliciteer pagina"
+            },
+            {
+                "thumbnail": false,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/super-villain-wanted_code-html.jpg",
+                "alt": "Screenshot van HTML code"
+            }
+        ],
+        "tags": [
+            "Webdevelopment",
+            "Designing"
+        ],
+        "makers": [
+            "Cédric De Blanck"
+        ],
+        "technologies": [
+            {
+                "name": "html en css",
+                "logoURL": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/technologies/images/js-html-css_logo.png"
+            }
+        ],
+        "course": "Webdesign",
+        "yearCreated": "2019-2020",
+        "is3d": false
+    },
+    {
+        "id": "b43d3bfe74554691b26185d8b40e3d5d",
+        "title": "Portfolio",
+        "description": "<p>Maak een webapplicatie waarin de portfolio wordt getoond van jouw toekomstige digital agency.</p><p>De portfolio bestaat uit een lijst van projecten / werken. Ieder project in deze lijst bevat beknopte informatie, namelijk: afbeelding (thumbnail), titel, aantal likes, aantal views en de eigenaar (thumbnail en naam) van dit project.</p><p>Klikken we op een project uit deze lijst, dan zal een gedetailleerde view worden getoond van dit project. De gedetailleerde view bevat alle project gerelateerde informatie.</p>",
+        "images": [
+            {
+                "thumbnail": true,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/portfolio_thumbnail.jpg",
+                "alt": "Screenshot van het resultaat"
+            },
+            {
+                "thumbnail": false,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/portfolio_detail.jpg",
+                "alt": "Screenshot van een detail pagina"
+            },
+            {
+                "thumbnail": false,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/portfolio_code-js.jpg",
+                "alt": "Screenshot van JS code"
+            }
+        ],
+        "tags": [
+            "Webdevelopment"
+        ],
+        "makers": [
+            "Cédric De Blanck"
+        ],
+        "technologies": [
+            {
+                "name": "js, html en css",
+                "logoURL": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/technologies/images/js-html-css_logo.png"
+            }
+        ],
+        "course": "Webprogramming-1",
+        "yearCreated": "2019-2020",
+        "is3d": false
+    },
+    {
+        "id": "1e5045bf8b1244a5bf09f8d2adbedb18",
+        "title": "Single Page Website",
+        "description": "<p>Voor deze opdrachten ontwerpen jullie een One Page Website voor een (favoriete) film of serie. Probeer aan de hand van storytelling de interesse op te wekken bij de bezoeker om naar de film/serie te kijken.</p><p>In deze website moeten verplicht 4 gedetoureerde  afbeeldingen aanwezig zijn. Alsook 2 zelfgemaakte vector afbeelding.</p><p>Je ontwerp de website eerst in Adobe Xd. Daarna werk je die uit in HTML / CSS.</p><p>Als uitbereiding voeg je een parallax effect toe. Dit kan op basis van de de cursor (bijvoorbeeld meerdere achtergrond afbeeldingen bewegen), of op basis van de scroll positie.</p>",
+        "images": [
+            {
+                "thumbnail": true,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/single-page-website_thumbnail.jpg",
+                "alt": "Screenshot van het resultaat"
+            },
+            {
+                "thumbnail": false,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/single-page-website_parallax.jpg",
+                "alt": "Screenshot van parallax effect"
+            },
+            {
+                "thumbnail": false,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/single-page-website_code-html.jpg",
+                "alt": "Screenshot van HTML code"
+            }
+        ],
+        "tags": [
+            "Webdevelopment",
+            "Parallax effect",
+            "User Interface"
+        ],
+        "makers": [
+            "Cédric De Blanck"
+        ],
+        "technologies": [
+            {
+                "name": "js, html en css",
+                "logoURL": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/technologies/images/js-html-css_logo.png"
+            },
+            {
+                "name": "Adobe XD",
+                "logoURL": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/technologies/images/adobe-xd_logo.png"
+            },
+            {
+                "name": "Adobe Illustrator",
+                "logoURL": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/technologies/images/adobe-illustrator_logo.png"
+            }
+        ],
+        "course": "UI/UX-1",
+        "yearCreated": "2019-2020",
+        "is3d": false
+    },
+    {
+        "id": "e19e95cfede442c49ee600b0785fb746",
+        "title": "Webshop",
+        "description": "<p>Ontwerp een website voor een webshop. De producten die je wenst te verkopen mag je zelf kiezen.</p><p>Het ontwerp dient opgeleverd te worden in Adobe Xd en bevat zowel de ontwerpen voor desktop als voor mobile.</p>",
+        "images": [
+            {
+                "thumbnail": true,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/webshop_thumbnail.jpg",
+                "alt": "Screenshot van het resultaat"
+            },
+            {
+                "thumbnail": false,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/webshop_moodboard.jpg",
+                "alt": "Screenshot van moodboard"
+            }
+        ],
+        "tags": [
+            "Webdevelopment",
+            "User Interface",
+            "Webshop"
+        ],
+        "makers": [
+            "Cédric De Blanck"
+        ],
+        "technologies": [
+            {
+                "name": "Adobe XD",
+                "logoURL": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/technologies/images/adobe-xd_logo.png"
+            }
+        ],
+        "course": "UI/UX-1",
+        "yearCreated": "2019-2020",
+        "is3d": false
+    },
+    {
+        "id": "7e2fd7b6d1354b8d86547a876f589377",
+        "title": "Tinder",
+        "description": "<p>Creëer met alle kennis die je tot nog toe vergaard hebt uit || Web Design & UI/UX, Web Programming 1 & 2 || een volledige webapp.</p><p>Maak een Tinder-applicatie, waarbij je de data ophaalt van de API: Random User Me.</p>",
+        "images": [
+            {
+                "thumbnail": true,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/tinder_thumbnail.jpg",
+                "alt": "Screenshot van het resultaat"
+            },
+            {
+                "thumbnail": false,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/tinder_code-js.jpg",
+                "alt": "Screenshot van JS code"
+            }
+        ],
+        "tags": [
+            "Webdevelopment",
+            "Webapplication",
+            "Local Storage",
+            "API"
+        ],
+        "makers": [
+            "Cédric De Blanck"
+        ],
+        "technologies": [
+            {
+                "name": "js, html en css",
+                "logoURL": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/technologies/images/js-html-css_logo.png"
+            }
+        ],
+        "course": "Webprogramming-2",
+        "yearCreated": "2019-2020",
+        "is3d": false
+    },
+    {
+        "id": "c2ec69f306194b5698d20c875fce616c",
+        "title": "Triviaquiz",
+        "description": "<p>Maak een applicatie waarin de gebruiker een triviaquiz kan spelen.</p><p>De vragen worden door een API gegenerate en kunnen door de gebruiker ingesteld worden op categorie en moeilijkheid. Hou deze instellingen en de hoogst behaalde score bij in de local storage.</p>",
+        "images": [
+            {
+                "thumbnail": true,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/triviaquiz_thumbnail.jpg",
+                "alt": "Screenshot van het resultaat"
+            },
+            {
+                "thumbnail": false,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/triviaquiz_preferences.jpg",
+                "alt": "Screenshot van preferences page"
+            },
+            {
+                "thumbnail": false,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/triviaquiz_code-js.jpg",
+                "alt": "Screenshot van JS code"
+            }
+        ],
+        "tags": [
+            "Webdevelopment",
+            "Local Storage",
+            "API",
+            "Navigo"
+        ],
+        "makers": [
+            "Cédric De Blanck"
+        ],
+        "technologies": [
+            {
+                "name": "js, html en css",
+                "logoURL": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/technologies/images/js-html-css_logo.png"
+            },
+            {
+                "name": "Nunjucks",
+                "logoURL": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/technologies/images/nunjucks_logo.png"
+            }
+        ],
+        "course": "Webprogramming-2",
+        "yearCreated": "2019-2020",
+        "is3d": false
+    },
+    {
+        "id": "ab2ef6658d2244cfa28dba3434d95404",
+        "title": "Crowdfunding Website",
+        "description": "<p>Na het bedenken van een concept en het maken van een prototype is het tijd om dit verder te ontwikkelen. Hiervoor maken we een crowdfundingwebsite waar we het publiek kunnen overtuigen om te investeren in ons project.</p>",
+        "images": [
+            {
+                "thumbnail": true,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/crowdfunding_thumbnail.jpg",
+                "alt": "Screenshot van het resultaat"
+            },
+            {
+                "thumbnail": false,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/crowdfunding_online-ad.jpg",
+                "alt": "Screenshot van de online advertentie"
+            },
+            {
+                "thumbnail": false,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/crowdfunding_code-scss.jpg",
+                "alt": "Screenshot van SCSS code"
+            }
+        ],
+        "tags": [
+            "Webdevelopment",
+            "Online Ad",
+            "3D",
+            "single Page Application",
+            "11ty"
+        ],
+        "makers": [
+            "Cédric De Blanck"
+        ],
+        "technologies": [
+            {
+                "name": "js, html en css",
+                "logoURL": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/technologies/images/js-html-css_logo.png"
+            },
+            {
+                "name": "Blender",
+                "logoURL": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/technologies/images/blender_logo.png"
+            },
+            {
+                "name": "Adobe After Effects",
+                "logoURL": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/technologies/images/adobe-aftereffects_logo.png"
+            },
+            {
+                "name": "SASS",
+                "logoURL": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/technologies/images/sass_logo.png"
+            }
+        ],
+        "course": "UI/UX-2",
+        "yearCreated": "2019-2020",
+        "is3d": false
+    },
+    {
+        "id": "9265a6375ff84c2c9bdd4903784f053e",
+        "title": "Matthias Talloen",
+        "description": "<p>Het eerste groepswerk van de studenten was het namaken van een deel van Matthias Talloen's website. Dit gebeurde in groepjes van twee personen die door de docent werden samengesteld.</p>",
+        "images": [
+            {
+                "thumbnail": true,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/matthias-talloen_thumbnail.jpg",
+                "alt": "Screenshot van het resultaat"
+            },
+            {
+                "thumbnail": false,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/matthias-talloen_te-koop.jpg",
+                "alt": "Screenshot van te koop pagina"
+            },
+            {
+                "thumbnail": false,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/matthias-talloen_code-js.jpg",
+                "alt": "Screenshot van JS code"
+            }
+        ],
+        "tags": [
+            "Webdevelopment",
+            "Teamwork"
+        ],
+        "makers": [
+            "Cédric De Blanck",
+            "Alec Meganck"
+        ],
+        "technologies": [
+            {
+                "name": "js, html en css",
+                "logoURL": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/technologies/images/js-html-css_logo.png"
+            }
+        ],
+        "course": "AtWork-1",
+        "yearCreated": "2019-2020",
+        "is3d": false
+    },
+    {
+        "id": "136f01287db44aa7bed876dd0339e4e9",
+        "title": "Establis",
+        "description": "<p>Als examenopdracht moesten de studenten de website namaken van het bedrijf Establis. Hiervoor wordt gebruik gemaakt van een static site generator, nl 11ty, en nunjucks templates.</p>",
+        "images": [
+            {
+                "thumbnail": true,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/establis_thumbnail.jpg",
+                "alt": "Screenshot van het resultaat"
+            },
+            {
+                "thumbnail": false,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/establis_projecten.jpg",
+                "alt": "Screenshot van projecten pagina"
+            },
+            {
+                "thumbnail": false,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/establis_code-js.jpg",
+                "alt": "Screenshot van JS code"
+            }
+        ],
+        "tags": [
+            "Webdevelopment",
+            "11ty"
+        ],
+        "makers": [
+            "Cédric De Blanck"
+        ],
+        "technologies": [
+            {
+                "name": "js, html en css",
+                "logoURL": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/technologies/images/js-html-css_logo.png"
+            },
+            {
+                "name": "nunjucks",
+                "logoURL": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/technologies/images/nunjucks_logo.png"
+            }
+        ],
+        "course": "AtWork-1",
+        "yearCreated": "2019-2020",
+        "is3d": false
+    },
+    {
+        "id": "d653b3e9be4c4b15ab8eabed01268277",
+        "title": "Candylab Toys",
+        "description": "<p>Kies een autootje van de website van Candylab Toys en maak dit model na in Blender. Zorg ervoor dat dit model geimporteerd kan worden in een website.</p>",
+        "images": [
+            {
+                "thumbnail": true,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/candylab-toys_thumbnail.jpg",
+                "alt": "Screenshot van het resultaat"
+            },
+            {
+                "thumbnail": false,
+                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/portfolio/images/dumoulin_glenn_candylab.glb",
+                "alt": "Interactief 3d-model"
+            }
+        ],
+        "tags": [
+            "Webdevelopment",
+            "3D"
+        ],
+        "makers": [
+            "Cédric De Blanck"
+        ],
+        "technologies": [
+            {
+                "name": "Blender",
+                "logoURL": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-glendumo/static/technologies/images/blender_logo.png"
+            }
+        ],
+        "course": "UI/UX-2",
+        "yearCreated": "2019-2020",
+        "is3d": true
+    }
 ]
