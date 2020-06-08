@@ -6,17 +6,17 @@
         "images": [
             {
                 "thumbnail": true,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/super-villain-wanted_thumbnail.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/super-villain-wanted_thumbnail.jpg",
                 "alt": "Screenshot van het resultaat"
             },
             {
                 "thumbnail": false,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/super-villain-wanted_apply-page.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/super-villain-wanted_apply-page.jpg",
                 "alt": "Screenshot van de soliciteer pagina"
             },
             {
                 "thumbnail": false,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/super-villain-wanted_code-html.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/super-villain-wanted_code-html.jpg",
                 "alt": "Screenshot van HTML code"
             }
         ],
@@ -44,17 +44,17 @@
         "images": [
             {
                 "thumbnail": true,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/portfolio_thumbnail.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio_thumbnail.jpg",
                 "alt": "Screenshot van het resultaat"
             },
             {
                 "thumbnail": false,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/portfolio_detail.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/portfolio_detail.jpg",
                 "alt": "Screenshot van een detail pagina"
             },
             {
                 "thumbnail": false,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/portfolio_code-js.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/portfolio_code-js.jpg",
                 "alt": "Screenshot van JS code"
             }
         ],
@@ -81,17 +81,17 @@
         "images": [
             {
                 "thumbnail": true,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/single-page-website_thumbnail.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/single-page-website_thumbnail.jpg",
                 "alt": "Screenshot van het resultaat"
             },
             {
                 "thumbnail": false,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/single-page-website_parallax.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/single-page-website_parallax.jpg",
                 "alt": "Screenshot van parallax effect"
             },
             {
                 "thumbnail": false,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/single-page-website_code-html.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/single-page-website_code-html.jpg",
                 "alt": "Screenshot van HTML code"
             }
         ],
@@ -128,12 +128,12 @@
         "images": [
             {
                 "thumbnail": true,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/webshop_thumbnail.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/webshop_thumbnail.jpg",
                 "alt": "Screenshot van het resultaat"
             },
             {
                 "thumbnail": false,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/webshop_moodboard.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/webshop_moodboard.jpg",
                 "alt": "Screenshot van moodboard"
             }
         ],
@@ -162,12 +162,12 @@
         "images": [
             {
                 "thumbnail": true,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/tinder_thumbnail.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/tinder_thumbnail.jpg",
                 "alt": "Screenshot van het resultaat"
             },
             {
                 "thumbnail": false,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/tinder_code-js.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/tinder_code-js.jpg",
                 "alt": "Screenshot van JS code"
             }
         ],
@@ -197,17 +197,17 @@
         "images": [
             {
                 "thumbnail": true,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/triviaquiz_thumbnail.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/triviaquiz_thumbnail.jpg",
                 "alt": "Screenshot van het resultaat"
             },
             {
                 "thumbnail": false,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/triviaquiz_preferences.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/triviaquiz_preferences.jpg",
                 "alt": "Screenshot van preferences page"
             },
             {
                 "thumbnail": false,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/triviaquiz_code-js.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/triviaquiz_code-js.jpg",
                 "alt": "Screenshot van JS code"
             }
         ],
@@ -241,17 +241,17 @@
         "images": [
             {
                 "thumbnail": true,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/crowdfunding_thumbnail.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/crowdfunding_thumbnail.jpg",
                 "alt": "Screenshot van het resultaat"
             },
             {
                 "thumbnail": false,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/crowdfunding_online-ad.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/crowdfunding_online-ad.jpg",
                 "alt": "Screenshot van de online advertentie"
             },
             {
                 "thumbnail": false,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/crowdfunding_code-scss.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/crowdfunding_code-scss.jpg",
                 "alt": "Screenshot van SCSS code"
             }
         ],
@@ -294,17 +294,17 @@
         "images": [
             {
                 "thumbnail": true,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/matthias-talloen_thumbnail.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/matthias-talloen_thumbnail.jpg",
                 "alt": "Screenshot van het resultaat"
             },
             {
                 "thumbnail": false,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/matthias-talloen_te-koop.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/matthias-talloen_te-koop.jpg",
                 "alt": "Screenshot van te koop pagina"
             },
             {
                 "thumbnail": false,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/matthias-talloen_code-js.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/matthias-talloen_code-js.jpg",
                 "alt": "Screenshot van JS code"
             }
         ],
@@ -333,17 +333,17 @@
         "images": [
             {
                 "thumbnail": true,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/establis_thumbnail.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/establis_thumbnail.jpg",
                 "alt": "Screenshot van het resultaat"
             },
             {
                 "thumbnail": false,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/establis_projecten.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/establis_projecten.jpg",
                 "alt": "Screenshot van projecten pagina"
             },
             {
                 "thumbnail": false,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/establis_code-js.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/establis_code-js.jpg",
                 "alt": "Screenshot van JS code"
             }
         ],
@@ -375,12 +375,12 @@
         "images": [
             {
                 "thumbnail": true,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/candylab-toys_thumbnail.jpg",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/candylab-toys_thumbnail.jpg",
                 "alt": "Screenshot van het resultaat"
             },
             {
                 "thumbnail": false,
-                "src": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/portfolio/images/dumoulin_glenn_candylab.glb",
+                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/dumoulin_glenn_candylab.glb",
                 "alt": "Interactief 3d-model"
             }
         ],
