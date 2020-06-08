@@ -367,38 +367,5 @@
         "course": "AtWork-1",
         "yearCreated": "2019-2020",
         "is3d": false
-    },
-    {
-        "id": "d653b3e9be4c4b15ab8eabed01268277",
-        "title": "Candylab Toys",
-        "description": "<p>Kies een autootje van de website van Candylab Toys en maak dit model na in Blender. Zorg ervoor dat dit model geimporteerd kan worden in een website.</p>",
-        "images": [
-            {
-                "thumbnail": true,
-                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/candylab-toys_thumbnail.jpg",
-                "alt": "Screenshot van het resultaat"
-            },
-            {
-                "thumbnail": false,
-                "src": "https://raw.githubusercontent.com/pgmgent-1920-students/case1-pgm-website-baas-CedricDeBlanck/master/docs/static/portfolio/images/dumoulin_glenn_candylab.glb",
-                "alt": "Interactief 3d-model"
-            }
-        ],
-        "tags": [
-            "Webdevelopment",
-            "3D"
-        ],
-        "makers": [
-            "Cédric De Blanck"
-        ],
-        "technologies": [
-            {
-                "name": "Blender",
-                "logoURL": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-CedricDeBlanck/static/technologies/images/blender_logo.png"
-            }
-        ],
-        "course": "UI/UX-2",
-        "yearCreated": "2019-2020",
-        "is3d": true
     }
 ]
